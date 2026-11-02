@@ -1,5 +1,2 @@
 ## express app
-
-Access with browser http://localhost:8000
-
-Or access it via https://uni-of-helsinki-material-applications.onrender.com/
+Deployed to the cloud on Render link: https://express-app-eo27.onrender.com/
